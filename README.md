@@ -3,5 +3,9 @@
 # What We Offer
 | Mira Hub | About Mira Hub |
 |---------------------|-----------------------------------------------------------------------------|
-| Price | Free |
-| Device Supports | PC & Mobile |
+| 💵 Price | Free |
+| 📶 Device Supports | PC & Mobile |
+| 📌 Updates | Recently |
+| 🎉 Announcements | Recently |
+| 💻 Website | Setting up |
+| 📰 Scripts | Good Quality |
